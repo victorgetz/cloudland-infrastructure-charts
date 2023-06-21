@@ -79,4 +79,4 @@ charts:
 
   elastic-stack:
     namespace: monitoring
-    targetRevision: "7.17.3-route-bugfix"
+    targetRevision: "7.17.3-otc-volumes"
